@@ -1,2 +1,2 @@
 # Kriegspiel
-First digital recreation of Kriegspiel
+First digital recreation of Prussian war chess
